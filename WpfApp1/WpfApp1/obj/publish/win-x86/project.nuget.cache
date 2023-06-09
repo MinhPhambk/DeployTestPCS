@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGoDw1TEfQVjHbt8on1smjWrjVjMx8n4HF6eFbhJA6HUEREi/7kYlk5OJH6CnCOkewdaGLr28okPW+V1GqibOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Ichisoft\\TestDeploy_AutoUpdateVersion\\DeployTestPCS\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.15\\microsoft.netcore.app.runtime.win-x86.6.0.15.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.15.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x86.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
