@@ -19,3 +19,7 @@ C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfAp
 C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfApp1\obj\Release\net6.0-windows\WpfApp1.pdb
 C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfApp1\obj\Release\net6.0-windows\WpfApp1.genruntimeconfig.cache
 C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfApp1\obj\Release\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfApp1\bin\Release\net6.0-windows\WpfApp1.dll.manifest
+C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfApp1\bin\Release\net6.0-windows\WpfApp1.application
+C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfApp1\obj\Release\net6.0-windows\WpfApp1.dll.manifest
+C:\Users\Admin\Ichisoft\TestDeploy_AutoUpdateVersion\DeployTestPCS\WpfApp1\WpfApp1\obj\Release\net6.0-windows\WpfApp1.application
